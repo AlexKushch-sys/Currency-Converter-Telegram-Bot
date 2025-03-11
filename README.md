@@ -20,7 +20,7 @@ Telegram bot for converting currencies using up-to-date exchange rates from Mono
 
 ## Requirements
 
-*   Python 3.7+
+*   [Python](https://www.python.org/) 3.7+
 *   `pyTelegramBotAPI`
 *   `requests`
 *   `python-dotenv`
@@ -31,7 +31,7 @@ Telegram bot for converting currencies using up-to-date exchange rates from Mono
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/AlexKushch-sys/Currency-Converter-Telegram-Bot.git](https://www.google.com/search?q=https://github.com/AlexKushch-sys/Currency-Converter-Telegram-Bot.git)
+    git clone [https://github.com/AlexKushch-sys/Currency-Converter-Telegram-Bot.git](https://github.com/AlexKushch-sys/Currency-Converter-Telegram-Bot.git)
     cd Currency-Converter-Telegram-Bot
     ```
 
